@@ -6,14 +6,14 @@
                 <ACCOUNT AccNAME="100-01 KASA TL" AccNOTE="" AccIsBATCH="0" AccTYPE="Aktif Hesap" AccsPARENT="" AccCODE="10008" AccDBFile="xxx"/>
                 <ACCOUNT AccNAME="100-01 KASA USD" AccNOTE="" AccIsBATCH="0" AccTYPE="Aktif Hesap" AccsPARENT="" AccCODE="10009" AccDBFile="xxx"/>
                 <ACCOUNT AccNAME="100-01 KASA EUR" AccNOTE="" AccIsBATCH="0" AccTYPE="Aktif Hesap" AccsPARENT="" AccCODE="10010" AccDBFile="xxx"/>
-                <ACCOUNT AccNAME="100-01 KASA XAU" AccNOTE="" AccIsBATCH="0" AccTYPE="Aktif Hesap" AccsPARENT="" AccCODE="10011" AccDBFile="xxx"/>
+                <ACCOUNT AccNAME="100-01 KASA XAU" AccNOTE="" AccIsBATCH="0" AccTYPE="Pasif Hesap" AccsPARENT="" AccCODE="10011" AccDBFile="xxx"/>
             </ACCOUNT>
         </ACCOUNT>
     </ACCOUNT>
     <ACCOUNT AccNAME="G.Mağusa" AccNOTE="" AccIsBATCH="0" AccTYPE="Konum" AccsPARENT="" AccCODE="10002" AccDBFile="xxx">
-        <ACCOUNT AccNAME="AUB" AccNOTE="" AccIsBATCH="0" AccTYPE="Konum" AccsPARENT="" AccCODE="10005" AccDBFile="xxx"/>
+        <ACCOUNT AccNAME="AUB" AccNOTE="" AccIsBATCH="0" AccTYPE="Şahıs" AccsPARENT="" AccCODE="10005" AccDBFile="xxx"/>
     </ACCOUNT>
     <ACCOUNT AccNAME="İstanbul" AccNOTE="" AccIsBATCH="0" AccTYPE="Konum" AccsPARENT="" AccCODE="10003" AccDBFile="xxx">
-        <ACCOUNT AccNAME="YB" AccNOTE="" AccIsBATCH="0" AccTYPE="Konum" AccsPARENT="" AccCODE="10006" AccDBFile="xxx"/>
+        <ACCOUNT AccNAME="YB" AccNOTE="" AccIsBATCH="0" AccTYPE="Şahıs" AccsPARENT="" AccCODE="10006" AccDBFile="xxx"/>
     </ACCOUNT>
 </KONUM>
